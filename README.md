@@ -7,6 +7,7 @@ The objective of the game is to get a number of pieces of your color in a row, e
 
 The game is made interesting by the fact that the implications of turns and falls may not be obvious to a player, so their opponent may be able to put pieces into positions where they will fall into a line without their opponent realizing and being able to take countermeasures.
 
+This is a sample board with 5 rows and 4 columns, empty at the start of the game.
 ```
   0123
 
