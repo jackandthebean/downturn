@@ -16,6 +16,7 @@ The game is made interesting by the fact that the implications of turns and fall
 3 ....
 4 ....
 ```
+Black drops a piece in column 0.
 ```
   0123
 
@@ -25,6 +26,7 @@ The game is made interesting by the fact that the implications of turns and fall
 3 ....
 4 *...
 ```
+White drops a piece in column 2.
 ```
   0123
 
@@ -34,6 +36,7 @@ The game is made interesting by the fact that the implications of turns and fall
 3 ....
 4 *.o.
 ```
+Black drops another piece in column 0.
 ```
   0123
 
@@ -43,6 +46,7 @@ The game is made interesting by the fact that the implications of turns and fall
 3 *...
 4 *.o.
 ```
+White drops a piece in column 0 as well.
 ```
   0123
 
@@ -52,6 +56,7 @@ The game is made interesting by the fact that the implications of turns and fall
 3 *...
 4 *.o.
 ```
+Black rotates the board CW.
 ```
   01234
 
@@ -60,3 +65,4 @@ The game is made interesting by the fact that the implications of turns and fall
 2 *....
 3 o*o..
 ```
+etc. etc.
