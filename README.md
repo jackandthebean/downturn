@@ -80,7 +80,7 @@ These instructions will get you a copy of the project up and running on your loc
     ```
 2. Change directories.
     ```
-    $ cd downturn
+    $ cd downturn/proj2
     ```
 3. Compile the program.
     ```
