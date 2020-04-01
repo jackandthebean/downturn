@@ -69,6 +69,7 @@ Black rotates the board CW.
 2 *....
 3 o*o..
 ```
+etc. etc.
 
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. Have fun!
