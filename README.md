@@ -86,13 +86,13 @@ These instructions will get you a copy of the project up and running on your loc
     ```
     $ make
     ```
-4. Run the program, specifying width, height, winning-run length, and game storing method (`-m` for matrix representation `-b` for bits representation).
+4. Run the program, specifying desired width, height, winning-run length, and game storing method (`-m` for matrix representation, `-b` for bits representation).
     ```
     $ ./play -w 4 -h 5 -r 4 -m
     ```
 
 ### Play
-* Enter a column label to drop a piece into that column
+* Enter a column label to drop a piece into that column.
 * Enter `<` to rotate the board counterclockwise, `>` to rotate the board clockwise.
 * Game is over when one of the players has the requisite number of pieces in a row or the game is a draw and the board is full.
 
